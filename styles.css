@@ -1,0 +1,21 @@
+h1 { color:red; font-family: "ms sans serif";
+
+font-size: 24pt; font-weight: bolder; }
+
+h2 { color:black; font-family: "ms sans serif";
+
+font-size: 18pt; font-style: italic;
+
+margin-top: 0.25in; margin-left: 0.5in; }
+
+body { color:blue; font-family: "arial"; background-color: beige;
+
+font-size: 12pt; font-weight: normal; }
+
+img { float: right; }
+
+a:link { color: black; }
+
+a:visited { color: green; }
+
+a:hover { background-color: yellow; color: orange; }
